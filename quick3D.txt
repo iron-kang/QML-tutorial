@@ -1,0 +1,4 @@
+view3D建立3D視圖，environment屬性設定環境背景
+Model建立3D模型，可以載入常用的3D模型（ex. stl, fbx, obj...），可透過materials屬性設定材質
+在3D場景中需要設定攝影機才能看到物件，常用攝影機有PerspectiveCamera
+光源的部份也須考慮進去，不然物件會是黑色
